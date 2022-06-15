@@ -6,3 +6,7 @@ List <Map <String , dynamic>> home_Work3=[
 {"name" : "Yasser" , "Age":25 , "SSN":1104 , "Major":["SE" , null]} ,
 {"name" : "Mohammed" , "Age":26 , "SSN":1105 , "Major":"IT"} ,
 ];
+
+
+
+في دارت عباره عن امكانيه المستخدم بادخال البيانات في البرنامج  standard input outputال
